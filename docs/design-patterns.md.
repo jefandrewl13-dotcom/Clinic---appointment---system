@@ -1,0 +1,19 @@
+
+# Clinic Appointment System
+## Interface Design Patterns
+
+### 1. Card Pattern
+
+The Card Pattern organizes patient information and appointment details into separate sections. This makes the form easier to read and helps users find the information they need.
+
+### 2. Form-Based Workflow
+
+The form-based workflow guides patients in entering their personal information and appointment details before submitting their appointment request. This makes the booking process simple and organized.
+
+## Target Users
+
+The application is designed for patients who want to schedule a clinic appointment online without visiting the clinic just to request a schedule.
+
+## Purpose
+
+These design patterns improve the organization, readability, and usability of the Clinic Appointment System.
