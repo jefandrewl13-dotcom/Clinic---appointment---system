@@ -1,0 +1,34 @@
+CarePoint Clinic Appointment System – Testing Notes
+
+1. Responsive Design Testing
+
+Screen Width| Device Type| Result| Issues Found
+360px| Mobile| Pending| To be tested
+768px| Tablet| Pending| To be tested
+1280px| Desktop| Pending| To be tested
+
+2. Keyboard-Only Testing
+
+Test| Result| Issues Found
+Navigate through form using Tab| Pending| To be tested
+Select options using keyboard| Pending| To be tested
+Submit form using keyboard| Pending| To be tested
+
+3. User Testing
+
+A user who was not part of the development team will try the appointment form without receiving instructions.
+
+Observations:
+
+- To be completed after testing.
+
+4. Problems and Fixes
+
+Problem Observed| Fix Applied
+To be completed| To be completed
+To be completed| To be completed
+To be completed| To be completed
+
+5. Conclusion
+
+Testing will help identify problems in the system's layout, form validation, and usability. Improvements will be applied based on the actual results of testing.
