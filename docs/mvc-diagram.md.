@@ -1,0 +1,54 @@
+
+# Clinic Appointment System
+## Model-View-Controller (MVC) Architecture
+
+### 1. Model
+
+File: script.js
+
+Code section: AppointmentModel
+
+Responsibilities:
+- Stores patient appointment information.
+- Retrieves form data.
+- Validates patient information.
+- Checks required fields and input rules.
+
+### 2. View
+
+Files: index.html and styles.css
+
+Code sections:
+- HTML form structure
+- CSS interface design
+- AppointmentView
+
+Responsibilities:
+- Displays the appointment form.
+- Shows input fields and buttons.
+- Displays success and error messages.
+- Controls the appearance of the application.
+
+### 3. Controller
+
+File: script.js
+
+Code section: AppointmentController
+
+Responsibilities:
+- Receives user events.
+- Handles input, blur, change, submit, and reset events.
+- Communicates with the Model.
+- Updates the View based on validation results.
+
+## MVC Process
+
+1. The patient enters appointment information through the View.
+2. The Controller receives the user's actions.
+3. The Model checks and validates the information.
+4. The Controller receives the validation results.
+5. The View displays an error or success message.
+
+## Conclusion
+
+The MVC architecture separates the responsibilities of the application, making the code easier to understand, organize, and maintain.
